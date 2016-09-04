@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  NotCompiling
+
+  Created by Alexander Georgii-Hemming Cyon on 04/09/16.
+  Copyright © 2016 sajjon. All rights reserved.
+*/
+"YourName" = "Your name is %@";
